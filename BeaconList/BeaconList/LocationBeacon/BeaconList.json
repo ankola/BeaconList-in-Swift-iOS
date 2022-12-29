@@ -1,0 +1,16 @@
+{
+    "beacons": [
+        {
+            "name": "tatwa_german",
+            "icon": 0,
+            "uuid": "60C0BF61-11A2-0000-0000-000000000000",
+        },
+        {
+            "name": "UFO_NWm",
+            "icon": 0,
+            "uuid": "4B54504C-5546-4F00-0000-000000000001",
+        }
+    ],
+    "resultFlag": true,
+    "message": "Success"
+}
